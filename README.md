@@ -100,6 +100,7 @@
 <!-- ===================== CONTRIBUTION SNAKE (OPTIONAL ADVANCED) ===================== -->
 <!--
 ![Snake animation](https://raw.githubusercontent.com/saikrishnakothakapu/saikrishnakothakapu/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/saikrishnakothakapu/saikrishnakothakapu/output/github-contribution-grid-snake.svg)
 -->
 
 ---
