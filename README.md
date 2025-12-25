@@ -5,10 +5,22 @@
 <h3 align="center">Java Full Stack Developer | Spring Boot | Angular</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ksaikrishnareddy/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/saikrishnareddyK11/">LeetCode</a> •
-  <a href="mailto:saikrishnakothakapu@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/ksaikrishnareddy/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="35" height="35"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/saikrishnareddyK11/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+         alt="LeetCode" width="35" height="35"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:saikrishnakothakapu@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"
+         alt="Email" width="35" height="35"/>
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular;REST+APIs+%7C+Microservices;DSA+Learner;Open+to+Opportunities&center=true&width=600&height=45">
@@ -51,15 +63,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saikrishnakothakapu&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikrishnakothakapu&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnakothakapu&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -72,8 +84,8 @@
 ---
 
 ## 🤝 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-- Email: YOUR_EMAIL@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ksaikrishnareddy/
+- Email: saikrishnakothakapu@gmail.com
 
 ---
 
