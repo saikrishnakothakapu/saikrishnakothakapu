@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ksaikrishnareddy/">LinkedIn</a> •
-  <a href="https://leetcode.com/YOUR_LEETCODE/">LeetCode</a> •
+  <a href="https://leetcode.com/u/saikrishnareddyK11/">LeetCode</a> •
   <a href="mailto:saikrishnakothakapu@gmail.com">Email</a>
 </p>
 
