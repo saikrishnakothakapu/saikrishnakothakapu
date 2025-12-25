@@ -6,7 +6,7 @@
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular;REST+APIs+%7C+Microservices;DSA+%7C+Problem+Solving;Open+to+Opportunities&center=true&width=650&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular;REST+APIs+%7C+Microservices;DSA+%7C+Problem+Solving;Open+to+Opportunities&center=true&width=650&height=45&v=1" />
 </p>
 
 <!-- ===================== SOCIAL ICONS ===================== -->
@@ -99,7 +99,13 @@
 
 <!-- ===================== CONTRIBUTION SNAKE (OPTIONAL ADVANCED) ===================== -->
 
+---
+
+## 🐍 Contribution Graph
+
 ![Contribution Snake](https://raw.githubusercontent.com/saikrishnakothakapu/saikrishnakothakapu/output/github-contribution-grid-snake.svg)
+
+---
 
 
 ---
