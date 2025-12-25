@@ -60,27 +60,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Leetcode Stats
+
+<h2 align="center">📊 GitHub & LeetCode Stats</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=saikrishnakothakapu&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
-    width="420"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saikrishnakothakapu&theme=radical" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=saikrishnakothakapu&theme=radical&hide_border=true&cache_seconds=1800"
-    width="420"
-  />
+  <img src="https://streak-stats.demolab.com/?user=saikrishnakothakapu&theme=radical" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnakothakapu&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
-    width="420"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikrishnakothakapu&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" />
 </p>
 
 
