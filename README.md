@@ -5,9 +5,9 @@
 <h3 align="center">Java Full Stack Developer | Spring Boot | Angular</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-  <a href="https://leetcode.com/YOUR_LEETCODE/">LeetCode</a> •
-  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/ksaikrishnareddy/)">LinkedIn</a> •
+  <a href="[https://leetcode.com/YOUR_LEETCODE/](https://leetcode.com/u/saikrishnareddyK11/)">LeetCode</a> •
+  <a href="mailto:saikrishnakothakapu@gmail.com">Email</a>
 </p>
 
 <p align="center">
