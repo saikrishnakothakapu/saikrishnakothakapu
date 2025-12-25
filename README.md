@@ -65,19 +65,25 @@
 <h2 align="center">📊 GitHub & LeetCode Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saikrishnakothakapu&theme=radical" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saikrishnakothakapu&theme=radical"
+    width="32%"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=saikrishnakothakapu&theme=radical"
+    width="32%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikrishnakothakapu&theme=radical"
+    width="32%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saikrishnakothakapu&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikrishnakothakapu&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" />
+  <img
+    src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark"
+    width="40%"
+  />
 </p>
 
 
